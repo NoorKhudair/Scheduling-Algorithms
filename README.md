@@ -7,6 +7,7 @@ This is an Implementation of the operating system process scheduling algorithms 
 | P3 | 8  |2    |    1 |
 | P4      | 12    |  3 | 2 |
 | P3 | 10  |7    |    1 |
+
 The program outputs a Gantt chart for each scheduling algorithm as shown below:
 FCFS:
 P1:0-2, P2:2-6, P3:6-14, P4:14-26, P5:26-36
