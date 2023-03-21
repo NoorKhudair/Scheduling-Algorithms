@@ -1,7 +1,7 @@
 # Scheduling-Algorithms
 This is an Implementation of the operating system process scheduling algorithms using numpy .Information about processes is stored in a file named data.txt which contains the cpu burst , arrival time , and priority of each process as shown in the table:
 | Process   | CPU burst    | Arrival time  | Priority |
-| ----------|:------------:| -------------:|----------|
+| ----------|------------| -------------|----------|
 | P1        | 2            | 0             | 1        |
 | P2        | 4      |  0    | 0    |
 | P3 | 8    |2    |  1    |
