@@ -3,10 +3,10 @@ This is an Implementation of the operating system process scheduling algorithms 
 | Process   | CPU burst    | Arrival time  | Priority |
 | ----------|:------------:| -------------:|----------|
 | P1        | 2            | 0             | 1        |
-| P2        | 4      |  0 | 0 |
-| P3 | 8  |2    |    1 |
-| P4      | 12    |  3 | 2 |
-| P3 | 10  |7    |    1 |
+| P2        | 4      |  0    | 0    |
+| P3 | 8    |2    |  1    |
+| P4      | 12    |  3      | 2      |
+| P3 | 10  |7    |    1        |
 
 The program outputs a Gantt chart for each scheduling algorithm as shown below:
 
